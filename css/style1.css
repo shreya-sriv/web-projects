@@ -1,0 +1,9 @@
+#ab{
+    width: 200px;
+    height:400px;
+    border:2px solid black;
+    background-image: radial-gradient(red,blue,orange);
+
+}
+    
+   
